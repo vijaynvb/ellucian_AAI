@@ -8,7 +8,7 @@ $ ls
 $ mkdir workspace
 $ pwd
 $ cd workspace/
-$ git clone https://github.com/vijaynvb/ellucian_aa
+$ git clone https://github.com/vijaynvb/ellucian_aai
 $ cd ellucian_aai/
 $ code .
 
