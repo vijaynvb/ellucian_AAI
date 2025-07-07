@@ -2,3 +2,13 @@
 
 cd /home/labuser/Downloads
 sudo dpkg -i <packagename>
+
+$ cd /home/labuser
+$ ls
+$ mkdir workspace
+$ pwd
+$ cd workspace/
+$ git clone https://github.com/vijaynvb/ellucian_aa
+$ cd ellucian_aai/
+$ code .
+
