@@ -1,2 +1,4 @@
 1. Pretest Link: https://forms.office.com/r/AXYtAKjq3Y
 
+cd /home/labuser/Downloads
+sudo dpkg -i <packagename>
