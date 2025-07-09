@@ -19,7 +19,7 @@ class ChatBot:
         docs = text_splitter.split_text(text)
 
         embeddings = BedrockEmbeddings(
-            model_id="mistral.mistral-large-2402-v1:0",
+            model_id="amazon.titan-embed-text-v2:0",
         )
         vectorstore = FAISS.from_texts(texts=docs, embedding=embeddings)
 
